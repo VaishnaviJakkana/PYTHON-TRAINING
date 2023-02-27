@@ -1,1 +1,4 @@
 # PYTHON-TRAINING
+
+
+;LSL;S;AX;L';LX
